@@ -95,3 +95,4 @@ pre.domElement.addEventListener('click', e => {
 
 - Multiple apps example (just `.add` more packages)
 - Programmatically position apps (needs API)
+- Explain how you can run this in Metachromium as well.
