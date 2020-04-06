@@ -37,6 +37,8 @@ cd xrpackage-threejs-template
 xrpk build .
 ```
 
+The output is `a.wbn`, which is the packaged file to deploy. You can `xrpk run` this package, run it programmatically with the SDK, `xrpk publish` it, or host it somewhere yourself.
+
 ## Run
 
 ### Run XRPackage in a test room
