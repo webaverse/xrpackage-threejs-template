@@ -4,7 +4,7 @@
 
 ### `manifest.json`
 
-Specifies the type of package (`webxr-site`) and version, and the entrypoint file (index.html).
+Specifies the type of package (`webxr-site`) and version, and the entrypoint file (`index.html`).
 
 ### `index.html`
 
