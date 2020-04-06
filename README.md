@@ -1,5 +1,19 @@
 # XRPackage THREE.js template
 
+## What's included
+
+### `manifest.json`
+
+Specifies the type of package (`webxr-site`) and version, and the entrypoint file (index.html).
+
+### `index.html`
+
+The main code for the package.
+
+### Other files
+
+Assets that go along with the package.
+
 ## Prerequisites
 
 1. Get `xrpk`
