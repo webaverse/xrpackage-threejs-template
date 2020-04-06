@@ -16,23 +16,23 @@ Assets that go along with the package.
 
 ## Prerequisites
 
-1. Get `xrpk`
+Get `xrpk`
 
-```
+```bash
 npm install -g xrpk
 ```
 
 ## Build
 
-1. Clone this repo
+Clone this repo
 
-```
+```bash
 git clone https://github.com/webaverse/xrpackage-threejs-template.git
 ```
 
-1. Build the template
+Build the template
 
-```
+```bash
 cd xrpackage-threejs-template
 xrpk build .
 ```
@@ -41,7 +41,7 @@ xrpk build .
 
 ### Run XRPackage in a test room
 
-```
+```bash
 xrpk run a.wbn
 ```
 
@@ -51,7 +51,7 @@ You should see a spinning cube. You can enter VR.
 
 Instantiate an `XRPackageEngine`, `.add` an `XRPackage` to it, and hook up the DOM.
 
-```
+```js
 <script type=module>
 import {XRPackageEngine, XRPackage} from 'https://xrpackage.org/xrpackage.js';
 
