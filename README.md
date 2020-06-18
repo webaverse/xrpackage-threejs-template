@@ -55,7 +55,7 @@ Instantiate an `XRPackageEngine`, `.add` an `XRPackage` to it, and hook up the D
 
 ```js
 <script type=module>
-import {XRPackageEngine, XRPackage} from 'https://xrpackage.org/xrpackage.js';
+import {XRPackageEngine, XRPackage} from 'https://static.xrpackage.org/xrpackage.js';
 
 (async () => {
 
